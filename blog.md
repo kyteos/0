@@ -1,1 +1,2 @@
 ## About Me
+My name is Shreejal Paudel, and I am a rising senior who lives in North Carolina. I have a passion for computer science and plan to pursue it at a collegiate level. Somethings I like doing in my freetime are watching shows, playing games, and sometimes reading. My current favorite book is the Setting Sun by Osamu Dazai. I am very much looking forward to honing my skills in this bootcamp.  
